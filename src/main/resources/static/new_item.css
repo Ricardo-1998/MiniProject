@@ -1,0 +1,28 @@
+
+
+* {
+    margin: 5px;
+}
+
+#buttonMargin {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+#buttonMargin2 {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+#buttonMargin3 {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+
+.header{
+    display: flex;
+    flex-direction: ;
+    justify-content: space-between;
+    margin: 1rem;
+}

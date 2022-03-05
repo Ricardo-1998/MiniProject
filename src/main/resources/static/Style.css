@@ -1,0 +1,25 @@
+
+a {
+    text-align=center;
+}
+
+
+.formSearch{
+
+    display: flex;
+    flex-direction: row;
+    margin: 1rem;
+}
+
+
+
+.header{
+    display: flex;
+    flex-direction: ;
+    justify-content: space-between;
+    margin: 1rem;
+}
+
+
+
+
